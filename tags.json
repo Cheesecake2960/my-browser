@@ -1,0 +1,35 @@
+[
+    {
+        "name":"h1",
+        "font-size":20
+    },
+    {
+        "name":"h2",
+        "font-size":18
+    },
+    {
+        "name":"h3",
+        "font-size":16
+    },
+    {
+        "name":"h4",
+        "font-size":14
+    },
+    {
+        "name":"h5",
+        "font-size":12
+    },
+    {
+        "name":"h6",
+        "font-size":10
+    },
+    {
+        "name":"p",
+        "font-size":12
+    },
+    {
+        "name":"a",
+        "font-size":12,
+        "color":"blue"
+    }
+]
